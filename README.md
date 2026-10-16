@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/VOTRE_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:votre.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="mailto:grtech.pro@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <img src="https://img.shields.io/badge/Status-Actif_%26_Motiv%C3%A9-success?style=flat" alt="Status Badge"/>
 </p>
 
