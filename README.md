@@ -43,11 +43,11 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_D_UTILISATEUR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilhem-Rouger&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Statistiques GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_NOM_D_UTILISATEUR&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilhem-Rouger&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" />
 </p>
 
 ---
