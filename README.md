@@ -12,7 +12,7 @@
 
 ### 💡 À propos de moi
 * 🔭 **En ce moment :** Je travaille sur des projets de développement logiciel et web avancés, d'optimisation IA.
-* 🧠 **Veille & Apprentissage :** J'approfondis mes connaissances en architectures logicielles et en sécurité web, en réferencement web et IA
+* 🧠 **Apprentissage :** J'approfondis mes connaissances en architectures logicielles et en sécurité web, en réferencement web et IA
 * ⚡ **Centres d'intérêt :** Clean code, DevOps, automatisation et résolution de problèmes complexes, SEO et GEO.
 * 📫 **Comment me joindre :** [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:grtech.pro@protonmail.com)
 
